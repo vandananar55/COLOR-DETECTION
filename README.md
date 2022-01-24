@@ -7,7 +7,7 @@ This is an ML project to detect particular color from an image.
 
 ### Project Description 
 
-In this project, there is logo image from which red coloure is being detected.
+In this project, there is an image of a logo from which red colour is being detected.
 
 - Initially when we upload the image, we get the image in BGR format.
 - To get the original colours of the image, the image is being converted to RGB format. 
