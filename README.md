@@ -2,11 +2,12 @@
 This is an ML project to detect particular color from an image.
 
 ### Working Demo
-![ezgif com-gif-maker(1)](https://user-images.githubusercontent.com/94070137/150822488-e1544f93-7fe7-4db5-96b0-bce37ae63e5a.gif)
+![ezgif com-gif-maker(2)](https://user-images.githubusercontent.com/94070137/150829948-382343bd-e1d8-440f-b0f4-5c19627819f8.gif)
+
 
 ### Project Description 
 
-In this project, there is one electric circuit image from which red coloured lines are being detected.
+In this project, there is logo image from which red coloure is being detected.
 
 - Initially when we upload the image, we get the image in BGR format.
 - To get the original colours of the image, the image is being converted to RGB format. 
